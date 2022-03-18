@@ -1,3 +1,5 @@
+package tutor;
+
 public class Triangle {
     public String classify(int a, int b, int c) {
         if (a <1 || a>100 || b<1 || b>100 || c<1 || c> 100) {
