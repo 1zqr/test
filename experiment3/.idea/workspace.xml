@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b455f37c-5ca0-45df-8962-d4776e90d6dc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26mqcEMcGom4G7JVqHc4s2WRvUH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HoldingTimeByZonedTest.test_standard_to_DaylightTime">
+    <configuration name="HoldingTimeByZonedTest.testBetweenDaylightTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="telephonebill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise5" />
+      <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
+      <option name="METHOD_NAME" value="testBetweenDaylightTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoldingTimeByZonedTest.testBetweenStandardTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="telephonebill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise5" />
+      <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
+      <option name="METHOD_NAME" value="testBetweenStandardTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoldingTimeByZonedTest.testBetweenStandardTime_with_seconds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="telephonebill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise5" />
+      <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
+      <option name="METHOD_NAME" value="testBetweenStandardTime_with_seconds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoldingTimeByZonedTest.test_standard_to_DaylightTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="telephonebill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise5" />
+      <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
+      <option name="METHOD_NAME" value="test_standard_to_DaylightTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HoldingTimeByZonedTest.test_standard_to_DaylightTime" />
+        <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenDaylightTime" />
+        <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenStandardTime_with_seconds" />
+        <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenStandardTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b455f37c-5ca0-45df-8962-d4776e90d6dc" name="Changes" comment="" />
+      <created>1648039189856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648039189856</updated>
+      <workItem from="1648039190987" duration="5278000" />
+      <workItem from="1648086055063" duration="535000" />
+      <workItem from="1648909456510" duration="1489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
