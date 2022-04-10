@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\lenovo\Desktop" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -31,6 +34,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="26mqcEMcGom4G7JVqHc4s2WRvUH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,12 +49,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../experiment2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/checkstyle.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -58,9 +64,25 @@
       <recent name="exercise5" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HoldingTimeByZonedTest.test_standard_to_DaylightTime">
+  <component name="RunManager" selected="JUnit.HoldingTimeByZonedTest">
+    <configuration name="HoldingTimeByZonedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment4" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise5" />
+      <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HoldingTimeByZonedTest.testBetweenDaylightTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="telephonebill" />
+      <module name="experiment4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercise5.*" />
@@ -75,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HoldingTimeByZonedTest.testBetweenStandardTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="telephonebill" />
+    <configuration name="HoldingTimeByZonedTest.test_DaylightTime_to_standard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercise5.*" />
@@ -85,14 +107,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="exercise5" />
       <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
-      <option name="METHOD_NAME" value="testBetweenStandardTime" />
+      <option name="METHOD_NAME" value="test_DaylightTime_to_standard" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HoldingTimeByZonedTest.testBetweenStandardTime_with_seconds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="telephonebill" />
+    <configuration name="HoldingTimeByZonedTest.test_DaylightTime_to_standard_with_seconds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercise5.*" />
@@ -101,15 +123,15 @@
       </extension>
       <option name="PACKAGE_NAME" value="exercise5" />
       <option name="MAIN_CLASS_NAME" value="exercise5.HoldingTimeByZonedTest" />
-      <option name="METHOD_NAME" value="testBetweenStandardTime_with_seconds" />
+      <option name="METHOD_NAME" value="test_DaylightTime_to_standard_with_seconds" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HoldingTimeByZonedTest.test_standard_to_DaylightTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="telephonebill" />
-      <extension name="coverage">
+      <module name="experiment4" />
+      <extension name="coverage" runner="jacoco">
         <pattern>
           <option name="PATTERN" value="exercise5.*" />
           <option name="ENABLED" value="true" />
@@ -123,12 +145,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.HoldingTimeByZonedTest.test_standard_to_DaylightTime" />
+      <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenDaylightTime" />
+      <item itemvalue="JUnit.HoldingTimeByZonedTest.test_DaylightTime_to_standard" />
+      <item itemvalue="JUnit.HoldingTimeByZonedTest.test_DaylightTime_to_standard_with_seconds" />
+      <item itemvalue="JUnit.HoldingTimeByZonedTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HoldingTimeByZonedTest" />
+        <item itemvalue="JUnit.HoldingTimeByZonedTest.test_DaylightTime_to_standard_with_seconds" />
+        <item itemvalue="JUnit.HoldingTimeByZonedTest.test_DaylightTime_to_standard" />
         <item itemvalue="JUnit.HoldingTimeByZonedTest.test_standard_to_DaylightTime" />
         <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenDaylightTime" />
-        <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenStandardTime_with_seconds" />
-        <item itemvalue="JUnit.HoldingTimeByZonedTest.testBetweenStandardTime" />
       </list>
     </recent_temporary>
   </component>
@@ -145,10 +175,29 @@
       <workItem from="1648909456510" duration="1755000" />
       <workItem from="1649424919505" duration="91000" />
       <workItem from="1649425555037" duration="66000" />
+      <workItem from="1649425860701" duration="2591000" />
+      <workItem from="1649589183804" duration="1883000" />
+      <workItem from="1649591924111" duration="1102000" />
+      <workItem from="1649593061426" duration="2241000" />
+      <workItem from="1649598790498" duration="187000" />
+      <workItem from="1649599170467" duration="507000" />
+      <workItem from="1649599708547" duration="5036000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/experiment4$HoldingTimeByZonedTest_test_standard_to_DaylightTime.exec" NAME="HoldingTimeByZonedTest.test_standard_to_DaylightTime Coverage Results" MODIFIED="1649427166889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>exercise5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/experiment4$HoldingTimeByZonedTest.exec" NAME="HoldingTimeByZonedTest Coverage Results" MODIFIED="1649628872246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>exercise5.*</FILTER>
+    </SUITE>
   </component>
 </project>
