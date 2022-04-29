@@ -60,7 +60,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jpacman-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -121,6 +121,7 @@
       <workItem from="1650349695845" duration="3221000" />
       <workItem from="1650610896767" duration="1037000" />
       <workItem from="1650803474517" duration="2632000" />
+      <workItem from="1651155796759" duration="312000" />
     </task>
     <servers />
   </component>
