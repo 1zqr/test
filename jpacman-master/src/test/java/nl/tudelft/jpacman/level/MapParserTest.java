@@ -1,4 +1,4 @@
-package nl.tudelft.jpacman.lever;
+package nl.tudelft.jpacman.level;
 
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 import static org.mockito.Mockito.*;
