@@ -175,7 +175,7 @@ public class PlayerCollisionsTest{
      * 测试豆子与豆子之间的碰撞--什么都不发生
      */
     @Order(8)
-    @DisplayName(value="测试豆子与玩家之间的碰撞--吃掉+计分")
+    @DisplayName(value="测试豆子与豆子之间的碰撞--什么都不发生")
     @Test
     void testPelletPellet() {
         Pellet pellet1 = Mockito.mock(Pellet.class);
@@ -189,7 +189,7 @@ public class PlayerCollisionsTest{
      * 测试两个玩家之间的碰撞--什么都不发生
      */
     @Order(9)
-    @DisplayName(value="测试豆子与玩家之间的碰撞--吃掉+计分")
+    @DisplayName(value="测试两个玩家之间的碰撞--什么都不发生")
     @Test
     void testTwoPlayer() {
         Player player1 = Mockito.mock(Player.class);
